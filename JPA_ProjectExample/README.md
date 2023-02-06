@@ -47,9 +47,9 @@ El objetivo de este proyecto es crear una aplicación que permita a los usuarios
 7. **Creación archivo de persistencia:** Para este proyecto se utilizará el **Modelo de Capas**, por ende, se crearan los paquetes correspondientes, **"UI - Lógica - Persistencia - DAO"**, se creará el archivo de persistencia al cual se le añadirá un nombre y se le agregará la conexión a la base de datos. 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/40324908/214440337-6feccc6a-5b60-4817-ad7d-eb86c18b4ecb.PNG" alt="Install_3">
+<img src="https://user-images.githubusercontent.com/40324908/217113685-d36269f1-4c67-4705-8ec8-6e2dd0710fe3.PNG" alt="6">
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/40324908/214440337-6feccc6a-5b60-4817-ad7d-eb86c18b4ecb.PNG" alt="Install_3">
+<img src="https://user-images.githubusercontent.com/40324908/217113849-a54eb78c-4552-4d06-907a-f96fab6af182.PNG" alt="7">
 </div>
