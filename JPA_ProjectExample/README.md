@@ -15,7 +15,7 @@ El objetivo de este proyecto es crear una aplicación que permita a los usuarios
 3. **Crear un nuevo proyecto Maven en NetBeans:** Abre NetBeans y selecciona "File" -> "New Project" y luego selecciona "Maven" -> "Java Application". Sigue los pasos para crear un nuevo proyecto y especifique el nombre y la ubicación del proyecto.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/40324908/214440337-6feccc6a-5b60-4817-ad7d-eb86c18b4ecb.PNG" alt="Install_3">
+<img src="https://user-images.githubusercontent.com/40324908/217112492-f1a54510-0273-443c-9317-4dd2cc1fbfc7.PNG" alt="1">
 </div>
 
 4. **Añadir el driver de MySQL:** Haz clic en la pestaña "Dependencies" -> Haz clic en el botón "Add Dependency" -> En la ventana "Add Dependency", escribe el nombre de la dependencia que deseas agregar en el campo de búsqueda, en este caso será **(MySQL connector)** -> Selecciona la dependencia que deseas agregar de la lista de resultados -> Haz clic en "Add" para agregar la dependencia a tu proyecto -> Guarda los cambios y haz clic direcho sobre el folder del "Proyecto", luego selecciona "Clean and Build".
