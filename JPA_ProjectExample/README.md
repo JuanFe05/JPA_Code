@@ -30,6 +30,10 @@ El objetivo de este proyecto es crear una aplicación que permita a los usuarios
 <img src="https://user-images.githubusercontent.com/40324908/217112871-02f539ce-ceff-4a17-8628-7855e1a8e34f.PNG" alt="3">
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/40324908/217113054-1580ac1b-d6aa-49cd-8e50-86b7492f177a.PNG" alt="4">
+</div>
+
 6. **Datos de conexión de la BD:** En este paso, se deben agregar los datos necesarios para la optima conexión a la base de datos que ya debe estar previamente creada -> En el apartado "JDBC URL" agregamos lo siguiente y probamos la conexión: 
 
 ```bash
@@ -37,7 +41,7 @@ El objetivo de este proyecto es crear una aplicación que permita a los usuarios
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/40324908/217113054-1580ac1b-d6aa-49cd-8e50-86b7492f177a.PNG" alt="4">
+<img src="https://user-images.githubusercontent.com/40324908/217113467-2fabe427-9579-44bd-bb04-e83ddaecd36e.PNG" alt="5">
 </div>
 
 7. **Creación archivo de persistencia:** Para este proyecto se utilizará el **Modelo de Capas**, por ende, se crearan los paquetes correspondientes, **"UI - Lógica - Persistencia - DAO"**, se creará el archivo de persistencia al cual se le añadirá un nombre y se le agregará la conexión a la base de datos. 
