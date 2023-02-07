@@ -12,6 +12,10 @@ La arquitectura en capas consta en dividir la aplicación en capas, con la inten
 
 En la práctica, la mayoría de las veces este estilo arquitectónico es implementado en 4 capas, **presentación**, **negocio**, **persistencia** y **base de datos**, sin embargo, es habitual ver que la capa de negocio y persistencia se combinan en una solo capa, sobre todo cuando la lógica de persistencia está incrustada dentro de la capa de negocio.
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/40324908/217148765-48099e65-a68b-45a4-ba36-47739355574e.png" alt="capas-flow">
+</div>
+
 ## Data Access Object (DAO)
 
 El objetivo principal de **DAO** es aislar la lógica de acceso a datos de la lógica de negocios de la aplicación, permitiendo que la lógica de negocios se concentre en las tareas relacionadas con el negocio y la lógica de acceso a datos se encargue de las tareas relacionadas con la persistencia de datos.
