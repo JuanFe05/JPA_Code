@@ -54,7 +54,7 @@ El objetivo de este proyecto es crear una aplicación que permita a los usuarios
 <img src="https://user-images.githubusercontent.com/40324908/217113849-a54eb78c-4552-4d06-907a-f96fab6af182.PNG" alt="7">
 </div>
 
-8. **Creación de las Clases de persistencia:** Estas **Clases** son una parte importante de la arquitectura de una aplicación que utiliza una base de datos relacional. Estas se encargan de realizar operaciones **CRUD** (Crear, Leer, Actualizar y Borrar) en la base de datos, y su principal función es proporcionar una capa de abstracción entre la lógica de negocios y el acceso a los datos. En la siguiente imagen se muestra como podemos crear estas clases desde NetBeans.
+8. **Creación de las Clases de persistencia:** Estas **Clases** son una parte importante de la arquitectura de una aplicación que utiliza una base de datos relacional. Estas se encargan de realizar operaciones **CRUD** (Crear, Leer, Actualizar y Borrar) en la base de datos, y su principal función es proporcionar una capa de abstracción entre la lógica de negocios y el acceso a los datos. En la siguiente imagen se muestra como podemos crear estas clases desde **NetBeans**:
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/40324908/217114705-9927a83c-41e7-4244-9ca9-c8382518a921.PNG" alt="8">
